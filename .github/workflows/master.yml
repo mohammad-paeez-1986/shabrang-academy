@@ -20,3 +20,8 @@ jobs:
         username: shabra10
         password: b159veI9Yv
         server-dir: /public_html/
+        exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/hairline-toturial.mp4
