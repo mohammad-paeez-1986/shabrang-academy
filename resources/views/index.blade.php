@@ -186,7 +186,7 @@
         <div class="container">
             <div class="bg-gray-part">
                 <h2 class="text-right cario">
-                        موزش آرایشگری مردانه چقدر است؟
+                        هزینه آموزش آرایشگری مردانه چقدر است؟
                 </h2>
                 <p class="desc long-text">
                     هر شخصی که علاقه‌مند به آرایشگری و پیرایش می باشد ابتدا
