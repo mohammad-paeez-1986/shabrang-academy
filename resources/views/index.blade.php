@@ -273,7 +273,7 @@
     </section>
 
     <!-- GRAY CONTENT -->
-    <section class="gray-part">
+    <!-- <section class="gray-part">
         <div class="container">
             <div class="gray-part-content">
                 <div class="gray-part-content-text">
@@ -299,7 +299,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- COURSES -->
     <section>
