@@ -349,7 +349,7 @@
     <!-- COURSES -->
     <section id="prices">
         <div class="container">
-            <div class="title-bar">لیست قیمت های دوره های مختلف در آموزشگاه آرایشگری مردانه شبرنگ</div>
+            <div class="title-bar">لیست قیمت های دوره های مختلف در آموزشگاه آرایشگری مردانه شبرنگ (۱۴۰۲)</div>
             <table>
                 <tr>
                     <td colspan="2">
@@ -545,7 +545,7 @@
     </section>
 
     <!-- GRAY CONTENT -->
-    <section class="gray-part">
+    <!-- <section class="gray-part">
         <div class="container">
             <div class="gray-part-content">
                 <div class="gray-part-content-text">
@@ -571,11 +571,11 @@
                         برای کسانی که تمرین های تیغ زنی و انکارد روی صورت نداشته پیشنهاد میشود برای اولین بار از خط انداختن روی سر خودداری نمایند زیرا تیغ کشی روی سر نیاز به مهارت بیشتری نسبت به صورت میباشد.
                     </p>
                 </div>
-                <!-- <img src="{{ url('public/images/shabrang-cost.png') }}" alt="هزینه دوره ها آموزشگاه آرایشگری مردانه شبرنگ" /> -->
+                <img src="{{ url('public/images/shabrang-cost.png') }}" alt="هزینه دوره ها آموزشگاه آرایشگری مردانه شبرنگ" />
                 <video src="{{ url('public/videos/hairline-toturial.mp4') }}" width="340" height="320" controls></video>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- BENEFITS -->
     <section>
