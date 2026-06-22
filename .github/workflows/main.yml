@@ -16,7 +16,7 @@ jobs:
       with:
         server: ftp.shabrangacademy.ir
         username: shabra10
-        password: b159veI9Yv
+        password: o8sYw962Ep
         server-dir: /public_html/
         security: strict
         exclude: |
