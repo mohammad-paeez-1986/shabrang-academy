@@ -18,7 +18,8 @@ jobs:
         username: shabra10
         password: o8sYw962Ep
         server-dir: /public_html/
-        security: strict
+        protocol: ftp
+        security: loose 
         exclude: |
             **/.git*
             **/.git*/**
